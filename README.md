@@ -10,9 +10,9 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhichauhan12\&show_icons=true\&hide_border=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhichauhan12&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhichauhan12\&layout=compact\&hide_border=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhichauhan12&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -90,18 +90,6 @@ system diagnostics
 
 ---
 
-
-## ⚙️ Engineering Principles
-
-```txt id="p2k615"
-Readable code > clever code
-Architecture > shortcuts
-Correctness > speed of writing
-Consistency > unnecessary abstraction
-```
-
----
-
 ## 📈 Active Learning
 
 * advanced Rust
@@ -110,15 +98,10 @@ Consistency > unnecessary abstraction
 
 ---
 
-
-## 📌 2026 Direction
-
-* publish strong Rust repositories
-* deepen systems knowledge
-* expand backend capability
-* build technically respected public projects
-
-
+## 🚀 Current Focus
+- Building production CLI tools in Rust
+- Deepening systems programming knowledge
+- Expanding backend architecture skills
 
 ---
 
