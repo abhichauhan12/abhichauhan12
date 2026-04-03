@@ -37,6 +37,10 @@ Android → Systems Programming → Rust Tooling → Backend Depth
 
 ## 🧠 Engineering Stack
 
+<table>
+<tr>
+<td valign="top" width="33%">
+
 ### Mobile
 
 * Kotlin
@@ -47,6 +51,10 @@ Android → Systems Programming → Rust Tooling → Backend Depth
 * Hilt
 * Retrofit
 * Coroutines
+  
+</td>
+
+<td valign="top" width="33%">
 
 ### Systems
 
@@ -57,11 +65,20 @@ Android → Systems Programming → Rust Tooling → Backend Depth
 * Error Systems
 * Testing
 
+</td>
+
+<td valign="top" width="33%">
+
 ### Backend / Data
 
 * PostgreSQL
 * Firebase
 * REST APIs
+
+</td>
+</tr>
+</table>
+
 
 ---
 
@@ -74,27 +91,9 @@ Correctness > speed of writing
 Consistency > unnecessary abstraction
 ```
 
----
 
-## 🦀 Current Build Direction
 
-Developing CLI tools that solve real operational problems:
 
-```txt id="m9n771"
-process inspection
-service management
-resource monitoring
-permission analysis
-system diagnostics
-```
-
----
-
-## 📈 Active Learning
-
-* advanced Rust
-* backend systems
-* market systems research
 
 ---
 
