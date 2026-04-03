@@ -10,11 +10,15 @@
 
 <div align="center">
 
-<img width="47%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=abhichauhan12&show_icons=true&theme=tokyonight&hide_border=true"  />
+<!-- <img width="47%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=abhichauhan12&show_icons=true&theme=tokyonight&hide_border=true"  /> -->
 
 <!-- <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abhichauhan12&layout=compact&theme=tokyonight&hide_border=true" height="180"/> -->
 
+<img width="47%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=abhichauhan12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" />
+
+
 <img width="47%" src="https://streak-stats.demolab.com?user=abhichauhan12&theme=tokyonight&hide_border=true" />
+
 
 </div>
 
