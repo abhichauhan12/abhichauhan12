@@ -37,7 +37,7 @@ Android → Systems Programming → Rust Tooling → Backend Depth
 
 ## 🧠 Engineering Stack
 
-<table>
+<table width="100%"> 
 <tr>
 <td valign="top" width="33%">
 
