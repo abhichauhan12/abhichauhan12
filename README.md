@@ -10,7 +10,7 @@
 
 <div align="center">
 
- <img width="47%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=abhichauhan12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800"  />
+ <img width="47%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=abhichauhan12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=100"  />
 
 <!-- <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abhichauhan12&layout=compact&theme=tokyonight&hide_border=true" height="180"/> -->
 
